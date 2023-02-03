@@ -1,0 +1,26 @@
+nav{display: inline;
+    font-family: 'Roboto', sans-serif;
+}
+nav #title{display: inline-block;
+margin-right: 50%;
+font-size: xx-large;}
+nav .nav{font-size: x-large;
+text-decoration: none;
+}
+body{background-color: rgb(116, 113, 113);}
+.text{ text-align: center;}
+.img{ display: block;
+margin: auto;
+}
+.img2{
+display:inline;
+margin: 34%;}
+
+p{ text-align: center;
+display: block;
+padding-left: 20%;
+padding-right: 20%;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+button:hover{color: green;}
+a:hover{ color: white;
+}
